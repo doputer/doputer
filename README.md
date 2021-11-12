@@ -4,12 +4,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=doputer" alt="Doputer's github stats" />
-
-</p>
-
-<p align="center">
-
 <a href="https://dohyeon.dev">
 
 <img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Doputer's blog" />
