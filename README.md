@@ -6,7 +6,7 @@
 
 <a href="https://dohyeon.dev">
 
-<img src="https://img.shields.io/badge/GitHub%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Doputer's blog" />
+<img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Doputer's blog" />
 
 </a>
 
