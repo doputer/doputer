@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<a href="https://dohyeon.dev">
+<a href="https://kimdohyeon.tistory.com/">
 
 <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Doputer's blog" />
 
