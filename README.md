@@ -1,8 +1,10 @@
 <a href="https://github.com/devxb/gitanimals">
   
-<img src="https://render.gitanimals.org/farms/doputer"/>
+<img src="https://render.gitanimals.org/farms/doputer" />
 
 </a>
+
+<br />
 
 <p align="center">
 
