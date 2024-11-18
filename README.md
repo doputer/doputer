@@ -1,6 +1,8 @@
-안녕하세요 👋🏻
+<a href="https://github.com/devxb/gitanimals">
+  
+<img src="https://render.gitanimals.org/farms/doputer"/>
 
-개발자 김도현 입니다.
+</a>
 
 <p align="center">
 
