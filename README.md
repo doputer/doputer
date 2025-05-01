@@ -1,13 +1,9 @@
-<a href="https://github.com/devxb/gitanimals">
-  
-<img src="https://render.gitanimals.org/farms/doputer" />
+```shell
+$ npx dohyeon
 
-</a>
+안녕하세요. 개발자 김도현 입니다.
 
-<br />
-
-<p align="center">
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoputer&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Doputer's hit counter" />
-
-</p>
+Email. swputer@gmail.com
+Blog. https://dohyeon.dev
+GitHub. https://github.com/doputer
+```
